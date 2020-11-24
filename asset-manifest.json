@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/CommandHelper/static/css/main.2e324e0a.chunk.css",
-    "main.js": "/CommandHelper/static/js/main.1871d9a2.chunk.js",
-    "main.js.map": "/CommandHelper/static/js/main.1871d9a2.chunk.js.map",
+    "main.js": "/CommandHelper/static/js/main.70b58755.chunk.js",
+    "main.js.map": "/CommandHelper/static/js/main.70b58755.chunk.js.map",
     "runtime-main.js": "/CommandHelper/static/js/runtime-main.4c45a31b.js",
     "runtime-main.js.map": "/CommandHelper/static/js/runtime-main.4c45a31b.js.map",
-    "static/js/2.b406ff13.chunk.js": "/CommandHelper/static/js/2.b406ff13.chunk.js",
-    "static/js/2.b406ff13.chunk.js.map": "/CommandHelper/static/js/2.b406ff13.chunk.js.map",
+    "static/js/2.617c21e4.chunk.js": "/CommandHelper/static/js/2.617c21e4.chunk.js",
+    "static/js/2.617c21e4.chunk.js.map": "/CommandHelper/static/js/2.617c21e4.chunk.js.map",
     "index.html": "/CommandHelper/index.html",
     "static/css/main.2e324e0a.chunk.css.map": "/CommandHelper/static/css/main.2e324e0a.chunk.css.map",
-    "static/js/2.b406ff13.chunk.js.LICENSE.txt": "/CommandHelper/static/js/2.b406ff13.chunk.js.LICENSE.txt"
+    "static/js/2.617c21e4.chunk.js.LICENSE.txt": "/CommandHelper/static/js/2.617c21e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4c45a31b.js",
-    "static/js/2.b406ff13.chunk.js",
+    "static/js/2.617c21e4.chunk.js",
     "static/css/main.2e324e0a.chunk.css",
-    "static/js/main.1871d9a2.chunk.js"
+    "static/js/main.70b58755.chunk.js"
   ]
 }
